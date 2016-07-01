@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Mosaico Esportivo]]></title>
         <description><![CDATA[Mosaico Esportivo]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/mosaico-esportivo/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 01 Jul 2016 22:21:40 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 01 Jul 2016 22:32:59 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/mosaico-esportivo/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[A Disney space station? It no longer seems like such a goofy idea]]></title>
+            <description><![CDATA[<article><h1>A Disney space station? It no longer seems like such a goofy idea</h1><p>Throughout our planet's space-faring history, there have been two major impediments to putting a lot of private citizens into orbit. Only governments have had spacecraft, and there have been only a few, government-controlled, space stations to visit. But now that may finally changing in a big way.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d83d67a7d53a5e25e15266ea03dab94cba53ee33.jpg"></article>]]></description>
+            <link>http://arstechnica.com/science/2016/04/a-disney-space-station-it-no-longer-seems-like-such-a-goofy-idea/</link>
+            <guid isPermaLink="false">23402ab8-8e1f-4dd9-9481-26ccec30c3c6</guid>
+            <pubDate>Fri, 01 Jul 2016 22:32:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/da3c6712-f697-498a-9adf-48fb6e000d04.jpg">]]></description>
