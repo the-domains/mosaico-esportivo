@@ -47,19 +47,23 @@ description: >-
   diziam ser o cerebral que comandava o seu time, com um futebol de habilidade e
   beleza, bem diferente do Pelé, o matador implacável dos mil gols? O que se
   passa na cabeça dessa galera que joga o Game FIFA ?
-dateModified: '2016-07-01T22:17:30.019Z'
-datePublished: '2016-07-01T22:17:53.601Z'
+dateModified: '2016-07-01T22:20:55.223Z'
+datePublished: '2016-07-01T22:21:04.271Z'
 title: ''
 author: []
-starred: false
 sourcePath: >-
   _posts/2016-07-01-confirmando-minhas-suspeitas-de-ontem-argentina-x-chile-na.md
+isBasedOnUrl: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/da3c6712-f697-498a-9adf-48fb6e000d04.jpg
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
 _type: MediaObject
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/da3c6712-f697-498a-9adf-48fb6e000d04.jpg)
+
 Confirmando minhas suspeitas de ontem, Argentina x Chile na final mais do que justa. Melhor que tenha sido o Paraguai a levar de seis. O Brasil não suportaria e fez bem em sair pela esquerda, com virose e preservando a dignidade que ainda resta. Há times consistentes e inconsistentes. Nesse momento, fazemos parte do segundo tipo. Melhor se recompor, rever a história, situar os bastardos, redefinir as demandas de nosso futebol, hoje totalmente ditadas apenas por interesses comerciais.  
 A vergonha é não ter vergonha. Mas só quando o negócio é patriotismo. Já não é o caso. Ninguém precisa ter vergonha de ser jogador de aluguel, desses que não se identificam mais com sua nacionalidade, nem se sentem mais integrados a seu lugar de nascimento. Muitos por aqui, com suas vidas sendo definidas na janela da fortuna, com negócios de milhões. Onde está plugada a sua atenção, quando a janela de oportunidades corre em um frenesi de mercado?  
 Há muitas páginas na internet que acompanham principalmente as negociações. É outro mundo, outra dimensão de valores, outras prioridades.  
