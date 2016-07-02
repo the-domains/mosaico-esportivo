@@ -4,8 +4,15 @@
         <description><![CDATA[Mosaico Esportivo - Apaixonados por Esporte]]></description>
         <link>https://thegrid.ai/mosaico-esportivo/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 02 Jul 2016 07:13:49 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Jul 2016 07:27:13 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/mosaico-esportivo/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7b63601b-d0cc-4793-b61c-6ab90a1bac9c.jpg">]]></description>
+            <link>https://thegrid.ai/mosaico-esportivo/b42b9383-634b-4a3b-87c4-379e174a3571/index.html</link>
+            <guid isPermaLink="false">b42b9383-634b-4a3b-87c4-379e174a3571</guid>
+            <pubDate>Sat, 02 Jul 2016 07:25:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/740c959a9f5001f1f9923f26051adde9/croprotate.jpg?cropheight=4018&cropwidth=6016&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F87a54b52-afee-489f-8183-9769930b47a6.jpg&x=0&y=0" alt="RIO 2016 - Adeline Gray ">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/mosaico-esportivo/45894058-155d-4323-a448-85cef3514c36/index.html</link>
             <guid isPermaLink="false">45894058-155d-4323-a448-85cef3514c36</guid>
             <pubDate>Sat, 02 Jul 2016 04:06:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/312343f9-11e3-496c-90c8-51da47656a22.jpg" alt="Pan Americanos 2007 - Final de Futebol Feminino - Brasil x EUA">]]></description>
-            <link>https://thegrid.ai/mosaico-esportivo/003e3880-5d10-45fc-ac6e-2de01acf1dbe/index.html</link>
-            <guid isPermaLink="false">003e3880-5d10-45fc-ac6e-2de01acf1dbe</guid>
-            <pubDate>Sat, 02 Jul 2016 04:05:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
