@@ -4,8 +4,15 @@
         <description><![CDATA[Mosaico Esportivo - Apaixonados por Esporte]]></description>
         <link>https://thegrid.ai/mosaico-esportivo/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 02 Jul 2016 05:21:31 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Jul 2016 05:53:24 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/mosaico-esportivo/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/352f733b-a038-4423-9cb9-f0d16019a99e.jpg">]]></description>
+            <link>https://thegrid.ai/mosaico-esportivo/1c911910-4292-432e-b9be-ced47e0a3758/index.html</link>
+            <guid isPermaLink="false">1c911910-4292-432e-b9be-ced47e0a3758</guid>
+            <pubDate>Sat, 02 Jul 2016 05:52:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e32243c3-89db-451c-ac74-b80364f91d55.jpg" alt="A&ccedil;&atilde;o Comunit&aacute;ria do Jogo Mosaico Esportivo">]]></description>
@@ -68,13 +75,6 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/da3c6712-f697-498a-9adf-48fb6e000d04.jpg</link>
             <guid isPermaLink="false">8bee6469-e452-4bd9-a145-7c0228565e87</guid>
             <pubDate>Sat, 02 Jul 2016 00:17:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[By Vladc]]></title>
-            <description><![CDATA[<article><h1>By Vladc</h1><p>Engenhão -Estádio Olímpico João Havelange (Oficial)</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/1d5545b0b773049484b1cf491cadf839/croprotate.jpg?cropheight=552&cropwidth=1280&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F188946e0-3a7a-43da-a3b8-4cea72d8be1d.jpg&x=0&y=0"></article>]]></description>
-            <link>https://thegrid.ai/mosaico-esportivo/45f890bd-89ef-486d-8a3f-c7e0379076d4/index.html</link>
-            <guid isPermaLink="false">45f890bd-89ef-486d-8a3f-c7e0379076d4</guid>
-            <pubDate>Sat, 02 Jul 2016 00:09:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
