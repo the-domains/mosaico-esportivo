@@ -8,14 +8,14 @@ description: >-
   fizeram chorar no Engenhão. Nada como a verdade e o amor dentro das quatro
   linhas, pista ou piscina. As lágrimas e os campeões estão sempre juntos. O
   sorriso também.
-dateModified: '2016-07-02T07:40:56.807Z'
-datePublished: '2016-07-02T07:40:57.203Z'
+dateModified: '2016-07-02T07:41:04.362Z'
+datePublished: '2016-07-02T07:41:04.816Z'
 title: Maila Machado no Ibero Americano 2016
 author: []
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/0647abc8-d962-444c-b9d6-f882d719e800.jpg
 sourcePath: _posts/2016-07-02-a-moca-da-foto-e-maila-machado-como-e-possivel-notar-esta.md
-starred: true
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
