@@ -1,16 +1,16 @@
-typography_spectrum: 0.7571980759967119
+typography_spectrum: 0.8996455252636224
 color:
-  brandStrength: 0.3050742521882057
-  lightness: 0.6018488104455173
-  saturation: 0.20788959693163633
-  rhythmicContrast: 0.3455155387055129
+  brandStrength: 0.5764031670987606
+  lightness: 0.7531537034083158
+  saturation: 0.3324725003913045
+  rhythmicContrast: 0.43388369283638895
   brandColors:
-    - '#2C3E50'
-    - '#E74C3C'
-    - '#ECF0F1'
-    - '#3498DB'
-    - '#2980B9'
-layout_spectrum: 0.8195053341332823
+    - '#16193B'
+    - '#35478C'
+    - '#4E7AC7'
+    - '#7FB2F0'
+    - '#ADD5F7'
+layout_spectrum: 0.05134813440963626
 author:
   name: Made by AREEVOL
 name: Mosaico Esportivo
