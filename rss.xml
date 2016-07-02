@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Mosaico Esportivo - Apaixonados por Esportes]]></title>
-        <description><![CDATA[Mosaico Esportivo - Apaixonados por Esportes]]></description>
+        <title><![CDATA[Mosaico Esportivo - Apaixonados por Esporte]]></title>
+        <description><![CDATA[Mosaico Esportivo - Apaixonados por Esporte]]></description>
         <link>https://thegrid.ai/mosaico-esportivo/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 02 Jul 2016 04:07:55 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Jul 2016 04:24:05 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/mosaico-esportivo/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7a0e1b81-e6f3-4a09-ae0a-55728646e150.jpg">]]></description>
+            <link>https://thegrid.ai/mosaico-esportivo/5d56e1a9-4a7a-43de-897b-8e75c3c445d5/index.html</link>
+            <guid isPermaLink="false">5d56e1a9-4a7a-43de-897b-8e75c3c445d5</guid>
+            <pubDate>Sat, 02 Jul 2016 04:23:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a8a479ca-9f66-4347-a253-e9858de75a93.jpg">]]></description>
