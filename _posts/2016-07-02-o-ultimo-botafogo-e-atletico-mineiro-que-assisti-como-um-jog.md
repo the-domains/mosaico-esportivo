@@ -16,13 +16,13 @@ description: >-
   insistentemente vem plantando, vai brigar na parte de cima da tabela, onde
   como já disse, ganhará quem tiver, entre os melhores ataques, a defesa mais
   consistente.
-dateModified: '2016-07-02T01:58:06.310Z'
-datePublished: '2016-07-02T01:58:06.731Z'
+dateModified: '2016-07-02T01:58:07.365Z'
+datePublished: '2016-07-02T01:58:07.699Z'
 title: ''
 author: []
 sourcePath: >-
   _posts/2016-07-02-o-ultimo-botafogo-e-atletico-mineiro-que-assisti-como-um-jog.md
-starred: true
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
