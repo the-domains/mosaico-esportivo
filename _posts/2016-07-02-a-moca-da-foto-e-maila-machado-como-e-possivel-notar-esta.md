@@ -3,19 +3,19 @@ description: >-
   A moça da foto é Maila Machado. Como é possível notar, está radiante de
   alegria por ter conseguido índice olímpico na prova com barreiras e se
   classificado para se apresentar nas Olimpíadas RIO 2016, pela equipe de
-  atletismo brasileira.  Confesso que a vibração dela e de sua companheira de
+  atletismo brasileira. Confesso que a vibração dela e de sua companheira de
   prova, também classificada – que apresentarei em outra oportunidade – me
   fizeram chorar no Engenhão. Nada como a verdade e o amor dentro das quatro
   linhas, pista ou piscina. As lágrimas e os campeões estão sempre juntos. O
   sorriso também.
-dateModified: '2016-07-02T02:32:28.824Z'
-datePublished: '2016-07-02T02:38:05.466Z'
-title: Maila Machado no Ibero Americano 2014
+dateModified: '2016-07-02T07:40:56.807Z'
+datePublished: '2016-07-02T07:40:57.203Z'
+title: Maila Machado no Ibero Americano 2016
 author: []
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/0647abc8-d962-444c-b9d6-f882d719e800.jpg
 sourcePath: _posts/2016-07-02-a-moca-da-foto-e-maila-machado-como-e-possivel-notar-esta.md
-starred: false
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
