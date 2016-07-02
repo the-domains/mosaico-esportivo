@@ -4,8 +4,15 @@
         <description><![CDATA[Mosaico Esportivo - Apaixonados por Esporte]]></description>
         <link>https://thegrid.ai/mosaico-esportivo/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 02 Jul 2016 06:11:20 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Jul 2016 06:16:57 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/mosaico-esportivo/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9f3de01b-18f7-4589-ae5a-3c1be35b3193.jpg">]]></description>
+            <link>https://thegrid.ai/mosaico-esportivo/875509c5-5130-4c5a-a1f9-3cd1effb47af/index.html</link>
+            <guid isPermaLink="false">875509c5-5130-4c5a-a1f9-3cd1effb47af</guid>
+            <pubDate>Sat, 02 Jul 2016 06:15:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/095a458e-b5f2-49c0-8c43-a8440e671eda.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/mosaico-esportivo/59aaab8f-9d76-4d93-bea8-94842453d0e9/index.html</link>
             <guid isPermaLink="false">59aaab8f-9d76-4d93-bea8-94842453d0e9</guid>
             <pubDate>Sat, 02 Jul 2016 02:35:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7eb1187f-3765-4554-a4e7-1ef02f80b24b.jpg" alt="Final do Campeonato Carioca 2016 - Botafogo X Vasco - Maracan&atilde;">]]></description>
-            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/7eb1187f-3765-4554-a4e7-1ef02f80b24b.jpg</link>
-            <guid isPermaLink="false">3d9ae47f-c12a-4e05-832d-04b888bd92d7</guid>
-            <pubDate>Sat, 02 Jul 2016 02:03:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
