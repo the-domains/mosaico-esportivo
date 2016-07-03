@@ -4,7 +4,7 @@
         <description><![CDATA[Mosaico Esportivo - Apaixonados por Esporte]]></description>
         <link>http://mosaicoesportivo.com.br/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 03 Jul 2016 05:15:25 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Jul 2016 05:30:35 GMT</lastBuildDate>
         <atom:link href="http://mosaicoesportivo.com.br/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -26,6 +26,13 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/0647abc8-d962-444c-b9d6-f882d719e800.jpg</link>
             <guid isPermaLink="false">020590af-27d5-4908-bfa0-82c8e1f07781</guid>
             <pubDate>Sat, 02 Jul 2016 07:41:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9f3de01b-18f7-4589-ae5a-3c1be35b3193.jpg" alt="Pan Americano 2007 - Festa de Abertura - Maracan&atilde;">]]></description>
+            <link>http://mosaicoesportivo.com.br/875509c5-5130-4c5a-a1f9-3cd1effb47af/index.html</link>
+            <guid isPermaLink="false">875509c5-5130-4c5a-a1f9-3cd1effb47af</guid>
+            <pubDate>Sun, 03 Jul 2016 05:30:30 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>http://mosaicoesportivo.com.br/6a03232e-cf03-49d7-8d07-b65cb1a7046a/index.html</link>
             <guid isPermaLink="false">6a03232e-cf03-49d7-8d07-b65cb1a7046a</guid>
             <pubDate>Sat, 02 Jul 2016 09:04:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9f3de01b-18f7-4589-ae5a-3c1be35b3193.jpg" alt="Pan Americano 2007 - Festa de Abertura - Maracan&atilde;">]]></description>
-            <link>http://mosaicoesportivo.com.br/875509c5-5130-4c5a-a1f9-3cd1effb47af/index.html</link>
-            <guid isPermaLink="false">875509c5-5130-4c5a-a1f9-3cd1effb47af</guid>
-            <pubDate>Sat, 02 Jul 2016 08:05:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
