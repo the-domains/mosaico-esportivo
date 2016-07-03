@@ -5,9 +5,9 @@ description: >-
   outro status, após o choro imaturo de Messi, que me lembrou aqueles momentos
   cênicos, onde o mandatário deixa a cadeira, para que o povo aclame sua volta,
   ovacionado e nos braços daqueles que até então o questionavam. O clichê “diga
-  ao povo que fico cabe bem nessa hora. Poucos lembrarão de Dom Pedro.
-dateModified: '2016-07-02T00:17:25.055Z'
-datePublished: '2016-07-02T00:17:51.644Z'
+  ao povo que fico” , cabe bem nessa hora. Poucos lembrarão de Dom Pedro.
+dateModified: '2016-07-03T06:21:10.497Z'
+datePublished: '2016-07-03T06:21:15.910Z'
 title: 'UM ANO DEPOIS, QUASE NADA'
 author:
   - name: Vladimir Cavalcante
@@ -26,4 +26,6 @@ _type: MediaObject
 # UM ANO DEPOIS, QUASE NADA
 ![Photo By Vladc](https://the-grid-user-content.s3-us-west-2.amazonaws.com/da3c6712-f697-498a-9adf-48fb6e000d04.jpg)
 
-Um ano depois, pouco ou quase nada mudou. A ponto de me sentir obrigado a republicar como matéria inaugural do novo ambiente, o texto daquele dia. Ganha outro status, após o choro imaturo de Messi, que me lembrou aqueles momentos cênicos, onde o mandatário deixa a cadeira, para que o povo aclame sua volta, ovacionado e nos braços daqueles que até então o questionavam. O clichê "diga ao povo que fico cabe bem nessa hora. Poucos lembrarão de Dom Pedro.
+Um ano depois, pouco ou quase nada mudou. A ponto de me sentir obrigado a republicar como matéria inaugural do novo ambiente, o texto daquele dia. Ganha outro status, após o choro imaturo de Messi, que me lembrou aqueles momentos cênicos, onde o mandatário deixa a cadeira, para que o povo aclame sua volta, ovacionado e nos braços daqueles que até então o questionavam. O clichê "diga ao povo que fico" , cabe bem nessa hora. Poucos lembrarão de Dom Pedro.
+
+Acabo de escrever essa frase e nenhuma surpresa... Já se criou o bordão desse que se tornou um pastelão digno de um novo tango argentino: "no te vayas Lío". Da Miss Bumbum ao Presidente argentino em ligação por telefone, o assunto se tornou o que Jânio Quadros imaginara para ele, porém nunca aconteceu. Não voltou nos braços do povo. No caso de Messi, foi justo deixar a cadeira de príncipe vazia, para que numa espécie de plebiscito calculado, a decisão fosse do povo. De minha parte, espero que o Papa e Deus, que é brasileiro também peçam. Tá muito cheio de perna de pau por aí, nesse futebol de Eurocopa com mais de seis penalidades perdidas.
