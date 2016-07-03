@@ -4,8 +4,15 @@
         <description><![CDATA[Mosaico Esportivo - Apaixonados por Esporte]]></description>
         <link>http://mosaicoesportivo.com.br/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 03 Jul 2016 17:53:03 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Jul 2016 18:37:51 GMT</lastBuildDate>
         <atom:link href="http://mosaicoesportivo.com.br/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/743bdcb3-f445-40af-b2cf-9aab5bc4705a.jpg">]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/743bdcb3-f445-40af-b2cf-9aab5bc4705a.jpg</link>
+            <guid isPermaLink="false">77150d71-5bf0-4249-bc0c-f3c45fd80679</guid>
+            <pubDate>Sun, 03 Jul 2016 18:37:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e09a38a8-9194-492d-b524-a0a8d085e492.jpg" alt="Pan Americano 2007 - 200 Metros Rasos">]]></description>
@@ -68,13 +75,6 @@
             <link>http://mosaicoesportivo.com.br/5d56e1a9-4a7a-43de-897b-8e75c3c445d5/index.html</link>
             <guid isPermaLink="false">5d56e1a9-4a7a-43de-897b-8e75c3c445d5</guid>
             <pubDate>Sun, 03 Jul 2016 05:43:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9f3de01b-18f7-4589-ae5a-3c1be35b3193.jpg" alt="Pan Americano 2007 - Festa de Abertura - Maracan&atilde;">]]></description>
-            <link>http://mosaicoesportivo.com.br/875509c5-5130-4c5a-a1f9-3cd1effb47af/index.html</link>
-            <guid isPermaLink="false">875509c5-5130-4c5a-a1f9-3cd1effb47af</guid>
-            <pubDate>Sun, 03 Jul 2016 05:39:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
