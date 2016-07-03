@@ -4,7 +4,7 @@
         <description><![CDATA[Mosaico Esportivo - Apaixonados por Esporte]]></description>
         <link>http://mosaicoesportivo.com.br/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 03 Jul 2016 05:39:23 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Jul 2016 05:40:27 GMT</lastBuildDate>
         <atom:link href="http://mosaicoesportivo.com.br/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -26,6 +26,13 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/0647abc8-d962-444c-b9d6-f882d719e800.jpg</link>
             <guid isPermaLink="false">020590af-27d5-4908-bfa0-82c8e1f07781</guid>
             <pubDate>Sat, 02 Jul 2016 07:41:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A ALEGRIA DE VENCER]]></title>
+            <description><![CDATA[<article><h1>A ALEGRIA DE VENCER</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/96837b00cb9ac9c20aa37e074d84c25f3ebf201a.jpg"></article>]]></description>
+            <link>http://mosaicoesportivo.com.br/5d56e1a9-4a7a-43de-897b-8e75c3c445d5/index.html</link>
+            <guid isPermaLink="false">5d56e1a9-4a7a-43de-897b-8e75c3c445d5</guid>
+            <pubDate>Sun, 03 Jul 2016 05:40:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>http://mosaicoesportivo.com.br/97cf3f6d-08dc-4e78-af89-3ab0007e5f21/index.html</link>
             <guid isPermaLink="false">97cf3f6d-08dc-4e78-af89-3ab0007e5f21</guid>
             <pubDate>Sat, 02 Jul 2016 18:17:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f64f1176fe9c2529e3fefdfa180bb57748202b90.jpg" alt="A&ccedil;&atilde;o Comunit&aacute;ria do Jogo Mosaico Esportivo">]]></description>
-            <link>http://mosaicoesportivo.com.br/6a03232e-cf03-49d7-8d07-b65cb1a7046a/index.html</link>
-            <guid isPermaLink="false">6a03232e-cf03-49d7-8d07-b65cb1a7046a</guid>
-            <pubDate>Sat, 02 Jul 2016 09:04:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
