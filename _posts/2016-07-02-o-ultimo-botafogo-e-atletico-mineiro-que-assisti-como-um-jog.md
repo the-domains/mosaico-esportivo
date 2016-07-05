@@ -1,7 +1,7 @@
 ---
 description: 'BOTAFOGO X ATLÉTICO MINEIRO : UMA ALEGRIA PARA O FUTEBOL'
-dateModified: '2016-07-05T09:39:52.302Z'
-datePublished: '2016-07-05T09:40:17.636Z'
+dateModified: '2016-07-05T09:46:17.082Z'
+datePublished: '2016-07-05T09:46:28.069Z'
 title: ''
 author: []
 sourcePath: >-
@@ -20,5 +20,5 @@ _type: MediaObject
 BOTAFOGO X ATLÉTICO MINEIRO : UMA ALEGRIA PARA O FUTEBOL
 
 O último Botafogo e Atlético Mineiro que assisti como um jogão, ainda tinha Vitinho como a grande revelação do Campeonato Brasileiro e o Ronaldinho Gaúcho comendo a bola. Foi uma partida disputadíssima, numa noite injusta onde o público foi matéria rara. Esse último confronto, onde foram marcados oito gols e excelentes jogadas ofensivas fazem lembrar os tempos em que o futebol era muito mais divertido, para quem joga e para quem assiste.  
-Partida interessante para o torcedor do futebol carioca e mineiro. Num placar de 5 x 3 o jogo me proporcionou emoções que a Eurocopa não poderá realizar jamais. A exceção do primeiro gol do Atlético Mineiro, todos os outros tiveram uma qualidade excepcional. Independentemente do resultado para qualquer um dos dois times, tenho absoluta certeza de que as torcidas ficaram felizes.  
-A emoção agradece a noite dessa partida, agradável de ser vista, ficará na minha memória afetiva. Agora só falta a Loja do Botafogo resolver incluir na lista de produtos a camisa clássica com manga longa. Vira artigo de colecionador para os mais dedicados a causa. Desconfio até que ela traz os flúidos de Garrincha. Quando vejo o time jogar com ela, é como se estivesse voltando ao passado das partidas preto-no-branco.
+Partida interessante para o torcedor do futebol carioca e mineiro. Num placar de 5 x 3 o jogo me proporcionou emoções que a Eurocopa não poderá realizar jamais. A exceção do primeiro gol do Atlético Mineiro, todos os outros tiveram foram resultantes de uma boa trama de ataque. Independentemente do resultado para qualquer favorável para esse ou aquele time, tenho certeza que as torcidas apreciam o futebol bem jogado. Quem vence fica mais feliz, mas assisti um espetáculo que vale o ingresso fica na lembrança de qualquer um.  
+A emoção agradece. Ficará na minha memória afetiva. Agora só falta a Loja do Botafogo resolver incluir na lista de produtos a camisa clássica com manga longa. Vira artigo de colecionador para os mais dedicados a causa. Desconfio até que ela traz os fluidos de Garrincha. Quando vejo o time jogar com ela, é como se estivesse voltando ao passado das partidas em preto e branco. Foi assim no duelo com o Internacional, onde me chamou também atenção o fato de que alguns preferem a manga curta, o que aconteceu também em algumas partidas da Eurocopa.
