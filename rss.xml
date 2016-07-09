@@ -4,7 +4,7 @@
         <description><![CDATA[Mosaico Esportivo - Apaixonados por Esporte]]></description>
         <link>http://mosaicoesportivo.com.br/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 08 Jul 2016 04:02:41 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Jul 2016 03:08:58 GMT</lastBuildDate>
         <atom:link href="http://mosaicoesportivo.com.br/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[UMA CERTA ALEMANHA E UMA OUTRA FRANÇA]]></title>
@@ -26,6 +26,13 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/0647abc8-d962-444c-b9d6-f882d719e800.jpg</link>
             <guid isPermaLink="false">020590af-27d5-4908-bfa0-82c8e1f07781</guid>
             <pubDate>Sat, 02 Jul 2016 07:41:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/254bcea9-cd97-445f-bade-0de110c02bfc.jpg">]]></description>
+            <link>http://mosaicoesportivo.com.br/7fb8baec-9c7a-417d-98e2-14aa3e59fe77/index.html</link>
+            <guid isPermaLink="false">7fb8baec-9c7a-417d-98e2-14aa3e59fe77</guid>
+            <pubDate>Sat, 09 Jul 2016 03:07:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>http://mosaicoesportivo.com.br/28bc695f-e2d3-4625-b373-8bf250637cd9/index.html</link>
             <guid isPermaLink="false">28bc695f-e2d3-4625-b373-8bf250637cd9</guid>
             <pubDate>Sun, 03 Jul 2016 17:52:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[UM ANO DEPOIS, QUASE NADA]]></title>
-            <description><![CDATA[<article><h1>UM ANO DEPOIS, QUASE NADA</h1><p>Um ano depois, pouco ou quase nada mudou. A ponto de me sentir obrigado a republicar como matéria inaugural do novo ambiente, o texto daquele dia. Ganha outro status, após o choro imaturo de Messi, que me lembrou aqueles momentos cênicos, onde o mandatário deixa a cadeira, para que o povo aclame sua volta, ovacionado e nos braços daqueles que até então o questionavam. O clichê “diga ao povo que fico” , cabe bem nessa hora. Poucos lembrarão de Dom Pedro.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/da3c6712-f697-498a-9adf-48fb6e000d04.jpg"></article>]]></description>
-            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/da3c6712-f697-498a-9adf-48fb6e000d04.jpg</link>
-            <guid isPermaLink="false">8bee6469-e452-4bd9-a145-7c0228565e87</guid>
-            <pubDate>Sun, 03 Jul 2016 06:24:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
