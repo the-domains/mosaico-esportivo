@@ -4,7 +4,7 @@
         <description><![CDATA[Mosaico Esportivo - Apaixonados por Esporte]]></description>
         <link>http://mosaicoesportivo.com.br/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 09 Jul 2016 03:08:58 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Jul 2016 03:23:25 GMT</lastBuildDate>
         <atom:link href="http://mosaicoesportivo.com.br/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[UMA CERTA ALEMANHA E UMA OUTRA FRANÇA]]></title>
@@ -26,6 +26,13 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/0647abc8-d962-444c-b9d6-f882d719e800.jpg</link>
             <guid isPermaLink="false">020590af-27d5-4908-bfa0-82c8e1f07781</guid>
             <pubDate>Sat, 02 Jul 2016 07:41:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[BRASIL X ALEMANHA]]></title>
+            <description><![CDATA[<img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/9315d4c18cd66ebce75f14f97cabe60b/croprotate.jpg?cropheight=3453&cropwidth=3311&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F0d27cf61-7ad7-438f-96ce-0e7f7a6a27cd.jpg&x=0&y=0">]]></description>
+            <link>http://www.coolhunting.com/tech/mighty-kickstarter-portable-media-player-spotify-streaming</link>
+            <guid isPermaLink="false">81e85eef-f9e2-4b8c-83b4-c08ca9f2ed4a</guid>
+            <pubDate>Sat, 09 Jul 2016 03:23:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/743bdcb3-f445-40af-b2cf-9aab5bc4705a.jpg</link>
             <guid isPermaLink="false">77150d71-5bf0-4249-bc0c-f3c45fd80679</guid>
             <pubDate>Sun, 03 Jul 2016 18:49:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a218d9e1-a887-4b1d-b86c-6403ac08bb82.jpg">]]></description>
-            <link>http://mosaicoesportivo.com.br/28bc695f-e2d3-4625-b373-8bf250637cd9/index.html</link>
-            <guid isPermaLink="false">28bc695f-e2d3-4625-b373-8bf250637cd9</guid>
-            <pubDate>Sun, 03 Jul 2016 17:52:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
