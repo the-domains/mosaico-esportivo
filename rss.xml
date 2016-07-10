@@ -4,7 +4,7 @@
         <description><![CDATA[Mosaico Esportivo - Apaixonados por Esporte]]></description>
         <link>http://mosaicoesportivo.com.br/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 10 Jul 2016 20:52:26 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Jul 2016 20:52:46 GMT</lastBuildDate>
         <atom:link href="http://mosaicoesportivo.com.br/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[O DIA DO VAMPIRO BRASILEIRO: TEATRO DOS HORRORES EM BELÔ]]></title>
@@ -12,6 +12,13 @@
             <link>http://mosaicoesportivo.com.br/c1851488-9690-41bc-a03b-e0cb4b6f17f5/index.html</link>
             <guid isPermaLink="false">c1851488-9690-41bc-a03b-e0cb4b6f17f5</guid>
             <pubDate>Sun, 10 Jul 2016 20:50:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a8a479ca-9f66-4347-a253-e9858de75a93.jpg" alt="Pan Americano 2007 - Salto em Dist&acirc;ncia - Maurren Maggi">]]></description>
+            <link>http://mosaicoesportivo.com.br/45894058-155d-4323-a448-85cef3514c36/index.html</link>
+            <guid isPermaLink="false">45894058-155d-4323-a448-85cef3514c36</guid>
+            <pubDate>Sun, 10 Jul 2016 20:52:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[ADELINE: A MULHER MARAVILHA]]></title>
@@ -68,13 +75,6 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/7eb1187f-3765-4554-a4e7-1ef02f80b24b.jpg</link>
             <guid isPermaLink="false">3d9ae47f-c12a-4e05-832d-04b888bd92d7</guid>
             <pubDate>Tue, 05 Jul 2016 09:46:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e09a38a8-9194-492d-b524-a0a8d085e492.jpg" alt="Pan Americano 2007 - 200 Metros Rasos">]]></description>
-            <link>http://mosaicoesportivo.com.br/810273b2-5170-4131-832d-0d8a213b702c/index.html</link>
-            <guid isPermaLink="false">810273b2-5170-4131-832d-0d8a213b702c</guid>
-            <pubDate>Mon, 04 Jul 2016 15:38:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
