@@ -4,7 +4,7 @@
         <description><![CDATA[Mosaico Esportivo - Apaixonados por Esporte]]></description>
         <link>http://mosaicoesportivo.com.br/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Jul 2016 19:02:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jul 2016 19:19:33 GMT</lastBuildDate>
         <atom:link href="http://mosaicoesportivo.com.br/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[A APOSTA (PERDIDA) NA FRANÇA]]></title>
@@ -12,6 +12,13 @@
             <link>http://mosaicoesportivo.com.br/e25e67d1-327e-43b7-8831-c20b63cf5aad/index.html</link>
             <guid isPermaLink="false">e25e67d1-327e-43b7-8831-c20b63cf5aad</guid>
             <pubDate>Sun, 10 Jul 2016 21:43:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9d8a0109-1774-460b-a9a2-c7b105e71566.jpg">]]></description>
+            <link>http://mosaicoesportivo.com.br/873e4af8-96e3-436f-ac50-a7165e0ce62a/index.html</link>
+            <guid isPermaLink="false">873e4af8-96e3-436f-ac50-a7165e0ce62a</guid>
+            <pubDate>Wed, 27 Jul 2016 19:19:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/0647abc8-d962-444c-b9d6-f882d719e800.jpg</link>
             <guid isPermaLink="false">020590af-27d5-4908-bfa0-82c8e1f07781</guid>
             <pubDate>Sat, 09 Jul 2016 05:11:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/312343f9-11e3-496c-90c8-51da47656a22.jpg" alt="Pan Americanos 2007 - Final de Futebol Feminino - Brasil x EUA">]]></description>
-            <link>http://mosaicoesportivo.com.br/003e3880-5d10-45fc-ac6e-2de01acf1dbe/index.html</link>
-            <guid isPermaLink="false">003e3880-5d10-45fc-ac6e-2de01acf1dbe</guid>
-            <pubDate>Sat, 09 Jul 2016 05:11:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
