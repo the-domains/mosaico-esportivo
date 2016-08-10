@@ -4,8 +4,15 @@
         <description><![CDATA[Mosaico Esportivo - Apaixonados por Esporte]]></description>
         <link>http://mosaicoesportivo.com.br/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 31 Jul 2016 18:39:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Aug 2016 23:58:01 GMT</lastBuildDate>
         <atom:link href="http://mosaicoesportivo.com.br/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0df36ba7-3661-4ac4-8b3f-b44a77a54395.jpg">]]></description>
+            <link>http://mosaicoesportivo.com.br/2f36478b-a009-415d-a7d9-e20dcba95f7d/index.html</link>
+            <guid isPermaLink="false">2f36478b-a009-415d-a7d9-e20dcba95f7d</guid>
+            <pubDate>Tue, 09 Aug 2016 23:57:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/d8c6aaf138280c99203eb1574bde71d4/croprotate.jpg?cropheight=907&cropwidth=1280&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fecf95719-3485-49a9-b72b-d1f232615bc7.jpg&x=0&y=0">]]></description>
@@ -68,13 +75,6 @@
             <link>http://mosaicoesportivo.com.br/2f16f952-f632-4c80-9941-e6c4852846b2/index.html</link>
             <guid isPermaLink="false">2f16f952-f632-4c80-9941-e6c4852846b2</guid>
             <pubDate>Sun, 10 Jul 2016 20:52:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/584418931ed581c5d55a99842dcd825f/croprotate.jpg?cropheight=797&cropwidth=1280&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F1830492b-1fb7-4720-a87c-c31ac3214c19.jpg&x=0&y=0" alt="RIO 2016 - Taekwondo - ARENA 1">]]></description>
-            <link>http://mosaicoesportivo.com.br/181c4031-c4b4-49d2-a5d4-ea0844d17511/index.html</link>
-            <guid isPermaLink="false">181c4031-c4b4-49d2-a5d4-ea0844d17511</guid>
-            <pubDate>Sun, 10 Jul 2016 20:50:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
