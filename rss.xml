@@ -4,8 +4,15 @@
         <description><![CDATA[Mosaico Esportivo - Apaixonados por Esporte]]></description>
         <link>http://mosaicoesportivo.com.br/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 10 Aug 2016 00:34:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Aug 2016 00:45:10 GMT</lastBuildDate>
         <atom:link href="http://mosaicoesportivo.com.br/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/aefb94a1-0e02-4601-ae94-d2454d30e986.jpg">]]></description>
+            <link>http://mosaicoesportivo.com.br/a-cultura-dos-pins-nas-olimpiadas-encontrei-timothy-jamenso/index.html</link>
+            <guid isPermaLink="false">0bf7cf49-764d-482b-b4af-2d78a6ddf95b</guid>
+            <pubDate>Wed, 10 Aug 2016 00:45:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0757d607-767e-4fef-84da-bdfe7c67695d.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>http://mosaicoesportivo.com.br/59aaab8f-9d76-4d93-bea8-94842453d0e9/index.html</link>
             <guid isPermaLink="false">59aaab8f-9d76-4d93-bea8-94842453d0e9</guid>
             <pubDate>Sun, 10 Jul 2016 20:52:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a8a479ca-9f66-4347-a253-e9858de75a93.jpg" alt="Pan Americano 2007 - Salto em Dist&acirc;ncia - Maurren Maggi">]]></description>
-            <link>http://mosaicoesportivo.com.br/45894058-155d-4323-a448-85cef3514c36/index.html</link>
-            <guid isPermaLink="false">45894058-155d-4323-a448-85cef3514c36</guid>
-            <pubDate>Sun, 10 Jul 2016 20:52:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
