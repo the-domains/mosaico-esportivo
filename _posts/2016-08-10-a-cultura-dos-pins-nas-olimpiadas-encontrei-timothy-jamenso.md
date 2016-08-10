@@ -1,8 +1,11 @@
 ---
-datePublished: '2016-08-10T00:45:06.624Z'
-author: []
+datePublished: '2016-08-10T00:51:34.172Z'
+sourcePath: >-
+  _posts/2016-08-10-a-cultura-dos-pins-nas-olimpiadas-encontrei-timothy-jamenso.md
+author:
+  - name: Vladimir Cavalcante
 via: {}
-dateModified: '2016-08-10T00:44:50.361Z'
+dateModified: '2016-08-10T00:51:33.483Z'
 title: ''
 publisher: {}
 description: >-
@@ -13,8 +16,6 @@ description: >-
   uma possibilidade de trocas e leveza de espírito, para além da Sociedade de
   Controle.
 starred: false
-sourcePath: >-
-  _posts/2016-08-10-a-cultura-dos-pins-nas-olimpiadas-encontrei-timothy-jamenso.md
 inFeed: true
 hasPage: true
 inNav: false
