@@ -1,4 +1,12 @@
 ---
+datePublished: '2016-08-13T20:00:26.508Z'
+sourcePath: >-
+  _posts/2016-08-13-as-simones-eternas-e-a-s1m0ne-o-nome-simone-tem-um-apelo-amo.md
+author: []
+via: {}
+dateModified: '2016-08-13T20:00:00.339Z'
+title: ''
+publisher: {}
 description: >-
   AS SIMONES ETERNAS E a S1M0NE O nome Simone tem um apelo amoroso indiscutível.
   Nessa Olimpíada nós podemos o nome que entre para a nova história do esporte é
@@ -15,16 +23,8 @@ description: >-
   muito me lembra a personagem Copélia. A perfeição robotizada de uma mulher
   obediente e que segue os padrões estéticos determinados pela indústria da
   beleza. Essa Simone é um ponto fora da curva, foge a tudo que vimos,
-  impressiona em tempos de multiculturalidade. O robô virou gente. 
-dateModified: '2016-08-13T19:59:37.205Z'
-datePublished: '2016-08-13T19:59:41.385Z'
-title: ''
-author: []
-publisher: {}
-via: {}
+  impressiona em tempos de multiculturalidade. O robô virou gente.
 starred: false
-sourcePath: >-
-  _posts/2016-08-13-as-simones-eternas-e-a-s1m0ne-o-nome-simone-tem-um-apelo-amo.md
 inFeed: true
 hasPage: false
 inNav: false
