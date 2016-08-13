@@ -4,8 +4,15 @@
         <description><![CDATA[Mosaico Esportivo - Apaixonados por Esporte]]></description>
         <link>http://mosaicoesportivo.com.br/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 12 Aug 2016 22:28:24 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Aug 2016 21:56:42 GMT</lastBuildDate>
         <atom:link href="http://mosaicoesportivo.com.br/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e38db027-0b18-4ca4-a5e7-9ff73ddcff69.jpg">]]></description>
+            <link>http://mosaicoesportivo.com.br/e9403530-e3c0-40fd-9fcf-53fc4f6c5607/index.html</link>
+            <guid isPermaLink="false">e9403530-e3c0-40fd-9fcf-53fc4f6c5607</guid>
+            <pubDate>Sat, 13 Aug 2016 21:56:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ac67de31-6859-44de-9426-e5ae48ec2679.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>http://mosaicoesportivo.com.br/foi-logo-ali-evento-teste-de-ginastica-ritmica-uma-obra-de/index.html</link>
             <guid isPermaLink="false">8807e11e-513f-4fac-9ff3-9ac6f285ae3a</guid>
             <pubDate>Fri, 29 Jul 2016 19:28:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/e36dc8937a42c9df7d142390274eea1b/croprotate.jpg?cropheight=853&cropwidth=1280&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F54497420-685c-4ccc-87bf-398ed895caba.jpg&x=0&y=0">]]></description>
-            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/54497420-685c-4ccc-87bf-398ed895caba.jpg</link>
-            <guid isPermaLink="false">795bd4d1-97bf-464d-9866-8a25e2ceaecf</guid>
-            <pubDate>Wed, 27 Jul 2016 19:02:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
