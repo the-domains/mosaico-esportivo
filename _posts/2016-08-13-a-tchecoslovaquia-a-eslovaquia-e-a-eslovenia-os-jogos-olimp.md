@@ -1,4 +1,12 @@
 ---
+datePublished: '2016-08-13T20:40:47.045Z'
+sourcePath: >-
+  _posts/2016-08-13-a-tchecoslovaquia-a-eslovaquia-e-a-eslovenia-os-jogos-olimp.md
+author: []
+via: {}
+dateModified: '2016-08-13T20:40:35.314Z'
+title: ''
+publisher: {}
 description: >-
   A TCHECOSLOVÁQUIA, A ESLOVÁQUIA E A ESLOVÊNIA Os Jogos Olímpicos RIO 2016 são
   uma grande oportunidade de melhorarmos nossos conhecimentos geográficos. E
@@ -26,21 +34,15 @@ description: >-
   Aprendi um pouco sobre a pobreza de alguns lugares. O assunto acabou ficando
   pesado, trocar um nome de país ou chamar um coreano de chinês não cria
   amigos...  (continua) 
-dateModified: '2016-08-13T20:38:24.191Z'
-datePublished: '2016-08-13T20:38:25.707Z'
-title: ''
-author: []
-publisher: {}
-via: {}
 starred: false
-sourcePath: >-
-  _posts/2016-08-13-a-tchecoslovaquia-a-eslovaquia-e-a-eslovenia-os-jogos-olimp.md
 inFeed: true
 hasPage: false
 inNav: false
 _type: MediaObject
 
 ---
+<iframe src="https://the-grid.github.io/ed-location/?latitude=20&amp;longitude=-35&amp;zoom=6" style=""></iframe>
+
 A TCHECOSLOVÁQUIA, A ESLOVÁQUIA E A ESLOVÊNIA  
 Os Jogos Olímpicos RIO 2016 são uma grande oportunidade de melhorarmos nossos conhecimentos geográficos. E também um terreno movediço para pagar alguns micos e distribuir pérolas sobre nossa ignorância sobre outros povos e países. Na verdade, em nosso caso, moradores do Rio de Janeiro e visitantes, é muito mais importante saber onde ficam certos lugares pelos quais é preferível não passar.  
 Como agravante a essa situação, a acelerada fragmentação que vai criando novos países e a descontinuação do Almanaque Abril. Trabalhei com uma refugiada da então Tchecoslovaquia. Aprendi muito com ela. Esse país que hoje não existe mais se transformou em dois: a República Tcheca e a Eslováquia. Tudo isso aconteceu pacificamente, naquela que ficou conhecida como a Revolução do Veludo. Nem toda separação é traumática.  
