@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-08-18T23:31:24.778Z'
+datePublished: '2016-08-18T23:31:26.574Z'
 sourcePath: _posts/2016-08-18-entre-a-vara-e-a-luva.md
 author: []
 via: {}
-dateModified: '2016-08-18T23:31:24.342Z'
+dateModified: '2016-08-18T23:31:26.109Z'
 title: ''
 publisher: {}
 description: ENTRE A VARA E A LUVA
