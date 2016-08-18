@@ -4,8 +4,15 @@
         <description><![CDATA[Mosaico Esportivo - Apaixonados por Esporte]]></description>
         <link>http://mosaicoesportivo.com.br/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 18 Aug 2016 22:30:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Aug 2016 22:47:45 GMT</lastBuildDate>
         <atom:link href="http://mosaicoesportivo.com.br/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b8e9cc31-67ce-4e86-a026-7b269954971a.jpg">]]></description>
+            <link>http://mosaicoesportivo.com.br/53848263-c13d-4da4-8f86-7be62c829c90/index.html</link>
+            <guid isPermaLink="false">53848263-c13d-4da4-8f86-7be62c829c90</guid>
+            <pubDate>Thu, 18 Aug 2016 22:47:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/05a953dc-7386-4161-a671-4307d2f32cbc.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>http://mosaicoesportivo.com.br/cartas-de-um-poeta-para-as-russas-foi-com-essa-apropriacao-q/index.html</link>
             <guid isPermaLink="false">64e4c273-9fbf-415f-9cdf-0b711d12826b</guid>
             <pubDate>Sun, 31 Jul 2016 18:39:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/daf86bf3a6d4c3017a0add37b1b11c91/croprotate.jpg?cropheight=643&cropwidth=1280&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fed94e441-e2eb-407b-b035-de5841a06e75.jpg&x=0&y=0">]]></description>
-            <link>http://mosaicoesportivo.com.br/por-um-outro-angulo-as-vezes-perdemos-a-perspectiva-sobre-as/index.html</link>
-            <guid isPermaLink="false">c9d62978-9caa-4975-b53a-dc0611134275</guid>
-            <pubDate>Sun, 31 Jul 2016 18:30:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
