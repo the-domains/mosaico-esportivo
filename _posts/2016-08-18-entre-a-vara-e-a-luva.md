@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-08-18T23:30:17.156Z'
+datePublished: '2016-08-18T23:31:24.778Z'
 sourcePath: _posts/2016-08-18-entre-a-vara-e-a-luva.md
 author: []
 via: {}
-dateModified: '2016-08-18T23:30:11.611Z'
+dateModified: '2016-08-18T23:31:24.342Z'
 title: ''
 publisher: {}
 description: ENTRE A VARA E A LUVA
@@ -14,7 +14,7 @@ inNav: false
 _type: MediaObject
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/14ce3b74-c967-4190-9810-a0dfc864244b.jpg)
+![Christian Petersen](https://the-grid-user-content.s3-us-west-2.amazonaws.com/14ce3b74-c967-4190-9810-a0dfc864244b.jpg)
 
 ENTRE A VARA E A LUVA
 
