@@ -1,19 +1,21 @@
 ---
-description: ENTRE A VARA E A LUVA
-dateModified: '2016-08-18T23:18:32.080Z'
-datePublished: '2016-08-18T23:18:36.884Z'
-title: ''
-author: []
-publisher: {}
-via: {}
-starred: false
+datePublished: '2016-08-18T23:30:17.156Z'
 sourcePath: _posts/2016-08-18-entre-a-vara-e-a-luva.md
+author: []
+via: {}
+dateModified: '2016-08-18T23:30:11.611Z'
+title: ''
+publisher: {}
+description: ENTRE A VARA E A LUVA
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
 _type: MediaObject
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/14ce3b74-c967-4190-9810-a0dfc864244b.jpg)
+
 ENTRE A VARA E A LUVA
 
 Um atleta fratura o braço num salto onde o acolchoamento se mostra insuficiente para garantir a integridade física do competidor. Num esporte onde o braço é a mola propulsora que irá transformar a velocidade das passadas em altura, muitos poderiam dizer que a carreira chegou ao fim. Mas não esse jovem de 22 anos, uma simpatia de pessoa, que contou com o apoio da família, da esposa e com a astúcia de um técnico acima do normal. Almejar o impossível sem treinar para esse momento deixou seu concorrente direto de quatro. Mas o francês preferiu um golpe baixo, e jogou a culpa na torcida, que afinal torcia pelo brasileiro. Qual o problema? O Comitê Olímpico Internacional que me perdoe, mas é uma grande babaquice querer extinguir o direito as vaias e aos aplausos de um espetáculo. A platéia politicamente correta que se apresenta no horizonte de uma esterilidade européia me incomoda. Uma coisa é defender direitos humanos, evitar os xingamentos preconceituosos. Outra coisa é ser proibido de torcer. O garoto merecia toda nossa carga afetiva. E o francês que leve a sua vara prá casa, ou como dizemos aqui, "enfie a viola no saco" e fique com sua prata que está de bom tamanho.  
