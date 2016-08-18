@@ -4,8 +4,15 @@
         <description><![CDATA[Mosaico Esportivo - Apaixonados por Esporte]]></description>
         <link>http://mosaicoesportivo.com.br/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 13 Aug 2016 21:56:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Aug 2016 21:52:15 GMT</lastBuildDate>
         <atom:link href="http://mosaicoesportivo.com.br/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/09234b75-e3b9-4441-8972-5170961cde20.jpg">]]></description>
+            <link>http://mosaicoesportivo.com.br/8c63f95c-76e2-41f9-8a76-6236960c7877/index.html</link>
+            <guid isPermaLink="false">8c63f95c-76e2-41f9-8a76-6236960c7877</guid>
+            <pubDate>Thu, 18 Aug 2016 21:52:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e38db027-0b18-4ca4-a5e7-9ff73ddcff69.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>http://mosaicoesportivo.com.br/873e4af8-96e3-436f-ac50-a7165e0ce62a/index.html</link>
             <guid isPermaLink="false">873e4af8-96e3-436f-ac50-a7165e0ce62a</guid>
             <pubDate>Fri, 29 Jul 2016 19:39:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5d82d408-d8a3-4c9c-af80-b8ca2d5d732e.jpg">]]></description>
-            <link>http://mosaicoesportivo.com.br/foi-logo-ali-evento-teste-de-ginastica-ritmica-uma-obra-de/index.html</link>
-            <guid isPermaLink="false">8807e11e-513f-4fac-9ff3-9ac6f285ae3a</guid>
-            <pubDate>Fri, 29 Jul 2016 19:28:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
