@@ -4,8 +4,15 @@
         <description><![CDATA[Mosaico Esportivo - Apaixonados por Esporte]]></description>
         <link>http://mosaicoesportivo.com.br/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 18 Aug 2016 22:55:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Aug 2016 22:32:23 GMT</lastBuildDate>
         <atom:link href="http://mosaicoesportivo.com.br/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/977c5e03-927d-48df-b491-cf781baca39a.jpg">]]></description>
+            <link>http://mosaicoesportivo.com.br/a7cbaf3b-7057-4a32-8834-9ff0942673e5/index.html</link>
+            <guid isPermaLink="false">a7cbaf3b-7057-4a32-8834-9ff0942673e5</guid>
+            <pubDate>Fri, 19 Aug 2016 22:32:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b8e9cc31-67ce-4e86-a026-7b269954971a.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>http://mosaicoesportivo.com.br/um-aniversariante-para-o-dia-muito-especial/index.html</link>
             <guid isPermaLink="false">278b911c-4eef-48e4-a3ff-5d24ab1cf4cd</guid>
             <pubDate>Wed, 10 Aug 2016 00:34:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/d8c6aaf138280c99203eb1574bde71d4/croprotate.jpg?cropheight=907&cropwidth=1280&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fecf95719-3485-49a9-b72b-d1f232615bc7.jpg&x=0&y=0">]]></description>
-            <link>http://mosaicoesportivo.com.br/cartas-de-um-poeta-para-as-russas-foi-com-essa-apropriacao-q/index.html</link>
-            <guid isPermaLink="false">64e4c273-9fbf-415f-9cdf-0b711d12826b</guid>
-            <pubDate>Sun, 31 Jul 2016 18:39:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
