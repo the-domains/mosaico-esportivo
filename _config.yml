@@ -1,4 +1,3 @@
-layout_spectrum: 0.5682241867762059
 typography_spectrum: 0.06691656867042184
 color:
   brandStrength: 0.5398460358846933
@@ -11,11 +10,16 @@ color:
     - '#ABC8E2'
     - '#375D81'
     - '#183152'
+layout_spectrum: 0.5682241867762059
 author:
   name: Made by AREEVOL
   email: vladimircavalcante@mac.com
   url: 'https://www.facebook.com/vladimir.cavalcante'
 name: Mosaico Esportivo
+navigation:
+  - name: Grafites do Engenhão
+    id: 45f890bd-89ef-486d-8a3f-c7e0379076d4
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/2a7ba94d-0ea2-4b22-a275-378fcef53848.jpg
 title: Mosaico Esportivo - Apaixonados por Esporte
