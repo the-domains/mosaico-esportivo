@@ -1,8 +1,8 @@
 ---
-datePublished: '2016-08-23T23:14:07.127Z'
+datePublished: '2016-08-23T23:15:26.573Z'
 author: []
 via: {}
-dateModified: '2016-08-23T23:14:00.339Z'
+dateModified: '2016-08-23T23:15:25.995Z'
 title: ''
 publisher: {}
 description: >-
@@ -24,9 +24,9 @@ description: >-
   período sempre parei na quase deserta e sob muitos aspectos desnecessária
   Estação da Vila. Pelo seu baixíssimo índice de densidade demográfica, só é
   justificada por sua função estratégica, em hipótese de guerra ou conflito.
-starred: false
 sourcePath: >-
   _posts/2016-08-23-nossa-precaria-baldeacao-e-as-consultorias-de-transporte-o-q.md
+starred: true
 inFeed: true
 hasPage: true
 inNav: false
