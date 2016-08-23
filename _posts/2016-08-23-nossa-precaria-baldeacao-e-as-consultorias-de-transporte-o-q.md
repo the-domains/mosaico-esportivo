@@ -1,8 +1,8 @@
 ---
-datePublished: '2016-08-23T23:15:26.573Z'
+datePublished: '2016-08-23T23:24:01.070Z'
 author: []
 via: {}
-dateModified: '2016-08-23T23:15:25.995Z'
+dateModified: '2016-08-23T23:24:00.407Z'
 title: ''
 publisher: {}
 description: >-
@@ -26,7 +26,7 @@ description: >-
   justificada por sua função estratégica, em hipótese de guerra ou conflito.
 sourcePath: >-
   _posts/2016-08-23-nossa-precaria-baldeacao-e-as-consultorias-de-transporte-o-q.md
-starred: true
+starred: false
 inFeed: true
 hasPage: true
 inNav: false
