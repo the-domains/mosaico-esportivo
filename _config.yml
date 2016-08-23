@@ -19,9 +19,6 @@ logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/3ff8017f-9a76-4199-9269-1f69fb9ff344.jpg
 name: Mosaico Esportivo - Apaixonados por Esporte
 navigation:
-  - name: Grafites do Engenhão
-    id: 45f890bd-89ef-486d-8a3f-c7e0379076d4
-    type: content
   - name: VOLEI BRASIL X RÚSSIA
     id: 53848263-c13d-4da4-8f86-7be62c829c90
     type: content
