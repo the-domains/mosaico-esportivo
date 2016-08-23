@@ -4,8 +4,15 @@
         <description><![CDATA[Mosaico Esportivo - Apaixonados por Esporte]]></description>
         <link>http://mosaicoesportivo.com.br/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 23 Aug 2016 22:53:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Aug 2016 23:23:40 GMT</lastBuildDate>
         <atom:link href="http://mosaicoesportivo.com.br/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/780cbf61-3a37-4379-901c-0818a7faaa37.jpg">]]></description>
+            <link>http://mosaicoesportivo.com.br/nossa-precaria-baldeacao-e-as-consultorias-de-transporte-o-q/index.html</link>
+            <guid isPermaLink="false">2eb02639-e7e7-45e1-8603-15c50812cc14</guid>
+            <pubDate>Tue, 23 Aug 2016 23:15:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e6ea3d86-94a2-476a-b142-226b66eb8f2d.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>http://mosaicoesportivo.com.br/2f36478b-a009-415d-a7d9-e20dcba95f7d/index.html</link>
             <guid isPermaLink="false">2f36478b-a009-415d-a7d9-e20dcba95f7d</guid>
             <pubDate>Wed, 10 Aug 2016 00:46:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0757d607-767e-4fef-84da-bdfe7c67695d.jpg">]]></description>
-            <link>http://mosaicoesportivo.com.br/um-aniversariante-para-o-dia-muito-especial/index.html</link>
-            <guid isPermaLink="false">278b911c-4eef-48e4-a3ff-5d24ab1cf4cd</guid>
-            <pubDate>Wed, 10 Aug 2016 00:34:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
