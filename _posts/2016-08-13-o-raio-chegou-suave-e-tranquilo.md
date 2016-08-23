@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-08-23T23:04:48.681Z'
+datePublished: '2016-08-23T23:04:39.460Z'
 sourcePath: _posts/2016-08-13-o-raio-chegou-suave-e-tranquilo.md
 author: []
 via: {}
-dateModified: '2016-08-23T23:04:40.606Z'
+dateModified: '2016-08-23T23:04:34.712Z'
 title: ''
 publisher: {}
 description: 'O RAIO PASSOU, SUAVE E TRANQUILO…'
