@@ -25,6 +25,9 @@ navigation:
   - name: ÁGUA SAGRADA OU CRISTAL?
     id: d95469db-3b10-4189-addb-fc63284a8884
     type: content
+  - name: Mosaico no FACEBOOK
+    url: 'https://www.facebook.com/mosaicoesportivo/'
+    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/2a7ba94d-0ea2-4b22-a275-378fcef53848.jpg
 title: ''
