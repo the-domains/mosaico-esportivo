@@ -1,15 +1,15 @@
 ---
-datePublished: '2016-08-26T17:53:01.025Z'
+datePublished: '2016-08-26T20:28:33.387Z'
 sourcePath: _posts/2016-08-26-as-diferentes-torcidas-de-futebol.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-08-26T17:52:45.377Z'
+dateModified: '2016-08-26T20:28:32.611Z'
 title: ''
 publisher:
   name: Vladimir Cavalcante
 description: AS DIFERENTES TORCIDAS DE FUTEBOL
-starred: false
+starred: true
 _type: Blurb
 
 ---
