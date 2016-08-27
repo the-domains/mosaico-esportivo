@@ -1,8 +1,8 @@
 ---
-datePublished: '2016-08-23T21:43:16.698Z'
+datePublished: '2016-08-26T17:54:56.444Z'
 author: []
 via: {}
-dateModified: '2016-08-23T21:43:16.050Z'
+dateModified: '2016-08-26T17:54:55.631Z'
 title: ''
 publisher: {}
 description: >-
@@ -29,7 +29,7 @@ description: >-
   uma aula, a macarronada foi o prato de despedida mais delicioso já comido.
 sourcePath: >-
   _posts/2016-08-23-macarronada-a-giacometti-um-ouro-de-alimento-apos-o-aperiti.md
-starred: true
+starred: false
 inFeed: true
 hasPage: true
 inNav: false
