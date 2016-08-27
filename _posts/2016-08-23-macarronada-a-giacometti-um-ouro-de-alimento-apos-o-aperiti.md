@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-26T18:03:35.835Z'
+datePublished: '2016-08-26T18:03:41.831Z'
 sourcePath: >-
   _posts/2016-08-23-macarronada-a-giacometti-um-ouro-de-alimento-apos-o-aperiti.md
 author: []
 via: {}
-dateModified: '2016-08-26T18:02:40.601Z'
+dateModified: '2016-08-26T18:03:36.984Z'
 title: ''
 publisher:
   name: VLADIMIR CAVALCANTE
@@ -33,7 +33,9 @@ description: >-
   delicioso já comido. Os invejosos e recalcados com os resultados conquistados
   pela realização das Olimpíadas no Rio morderam a fronha. Vi muitos paulistas
   arrependidos. Os que encararam o tempo de treinamento, com determinação e
-  disciplina, morderam medalhas, como se fossem 
+  disciplina, morderam medalhas, como se fossem biscoito trakinas. O Phelps
+  levou foi um saco para casa, gulosos que é. Vai merecer um artigo em especial,
+  tal a vocação para um Programa Erótico!
 starred: false
 inFeed: true
 hasPage: true
@@ -49,4 +51,4 @@ MACARRONADA À GIACOMETTI: UM OURO DE ALIMENTO
 Após o aperitivo que foi a salada russa de Bernardinho na vitória sobre os russos, só me restou vir comemorar com uma descendente do nobre artista que visitei. O segredo, já adianto, está na salada com os "tomatinhos vermelhos", uma alusiva homenagem a toda família do fenomenal Ivan Zaytsev! Nos divertimos por aqui, com talheres fora da posição, vinagre a pleno vapor, azeite abundante e muito, mas muito apetite.  
 O cromatismo da exposição ainda em cartaz no Centro Cultural Banco do Brasil, pós-impressionista, deixou as marcas de um protagonismo multicultural por essas bandas. No horário da peleja, lá estava eu, ostentando premonitoriamente a medalha. Depois daquela avalanche sob os russos, o esquadrão de nosso cão Bernardo não falhariam. Havia prometido a amiga Ângela que se o Brasil ganhasse seu merecido ouro, não faltaria a uma proveitosa ceia. E assim se fez. O jejum do jejum, a fome, o simbolismo da medalha mordida, por todos nós, por todos os que aqui passaram e realizaram suas conquistas.  
 Por favor, não me falem apenas das conquistas dentro das quadras ou das estatísticas de resultados. Há países para os quais uma medalha vale mais que trinta, tamanha é a força de um resultado que nos leva a uma viagem idílica ao Olimpo. Deuses estiveram entre nós, artistas se apresentaram para nós. Fomos assim deuses, exercemos assim nossa arte. O alimento se fez na mesa de cada um. Nós aprendemos, nós ensinamos. Sem pedagogismos falsos, sem falácias, o esporte é uma aula, a macarronada foi o prato de despedida mais delicioso já comido.  
-Os invejosos e recalcados com os resultados conquistados pela realização das Olimpíadas no Rio morderam a fronha. Vi muitos paulistas arrependidos. Os que encararam o tempo de treinamento, com determinação e disciplina, morderam medalhas, como se fossem
+Os invejosos e recalcados com os resultados conquistados pela realização das Olimpíadas no Rio morderam a fronha. Vi muitos paulistas arrependidos. Os que encararam o tempo de treinamento, com determinação e disciplina, morderam medalhas, como se fossem biscoito trakinas. O Phelps levou foi um saco para casa, gulosos que é. Vai merecer um artigo em especial, tal a vocação para um Programa Erótico!
