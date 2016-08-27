@@ -1,17 +1,20 @@
 ---
-datePublished: '2016-08-26T17:43:05.727Z'
+datePublished: '2016-08-26T17:53:01.025Z'
+sourcePath: _posts/2016-08-26-as-diferentes-torcidas-de-futebol.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-08-26T17:42:58.625Z'
+dateModified: '2016-08-26T17:52:45.377Z'
 title: ''
-publisher: {}
+publisher:
+  name: Vladimir Cavalcante
 description: AS DIFERENTES TORCIDAS DE FUTEBOL
 starred: false
-sourcePath: _posts/2016-08-26-as-diferentes-torcidas-de-futebol.md
 _type: Blurb
 
 ---
+![O 5 rubro-negro de Bengala no Engenhão](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6639b9a8-c35a-403e-b3e0-89e00cd34299.jpg)
+
 AS DIFERENTES TORCIDAS DE FUTEBOL
 
 Vou passando pela estrada pedalando minha bike e vejo um garoto perguntar a um outro que soltava sua pipinha: "hoje tem Flamengo?", o outro respondeu com uma felicidade indescritível: "Hoje tem Mengão na Telinha da Globo". Naquele instante, a ficha caiu.
