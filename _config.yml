@@ -1,16 +1,16 @@
-layout_spectrum: 0.9133073445409536
-typography_spectrum: 0.055138928815722466
+layout_spectrum: 0.9263258734717965
+typography_spectrum: 0.565311512676999
 color:
-  brandStrength: 0.2452575049828738
-  lightness: 0.9541104324162006
-  saturation: 0.518633222207427
-  rhythmicContrast: 0.17908092075958848
+  brandStrength: 0.7511807871051133
+  lightness: 0.8394561111927032
+  saturation: 0.43645882373675704
+  rhythmicContrast: 0.3729413701221347
   brandColors:
-    - '#7F7C77'
-    - '#242925'
-    - '#BED1EF'
-    - '#FEFEFC'
-    - '#A20228'
+    - '#FFFFFF'
+    - '#FEC200'
+    - '#150102'
+    - '#E08D00'
+    - '#AF4200'
 author:
   name: Made by AREEVOL
   email: vladimircavalcante@mac.com
