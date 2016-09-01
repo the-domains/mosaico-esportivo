@@ -1,13 +1,13 @@
 ---
-datePublished: '2016-08-29T22:39:15.522Z'
+datePublished: '2016-08-29T22:44:53.365Z'
 author: []
 via: {}
-dateModified: '2016-08-29T22:38:36.760Z'
+dateModified: '2016-08-29T22:44:52.879Z'
 title: ''
 publisher: {}
 description: A DAMA DE TODAS AS CAMÉLIAS E DOCES MUITO BÁRBAROS
-starred: false
 sourcePath: _posts/2016-08-29-a-dama-de-todas-as-camelias-e-doces-muito-barbaros.md
+starred: true
 inFeed: true
 hasPage: true
 inNav: false
