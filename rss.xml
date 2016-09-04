@@ -4,7 +4,7 @@
         <description><![CDATA[Mosaico Esportivo - Apaixonados por Esporte]]></description>
         <link>http://mosaicoesportivo.com.br/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 29 Aug 2016 22:44:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Sep 2016 13:53:46 GMT</lastBuildDate>
         <atom:link href="http://mosaicoesportivo.com.br/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>http://mosaicoesportivo.com.br/a-dama-de-todas-as-camelias-e-doces-muito-barbaros/index.html</link>
             <guid isPermaLink="false">18cc2adc-2106-479a-bf5e-b042b33c871d</guid>
             <pubDate>Mon, 29 Aug 2016 22:44:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b410970b-a2cd-476a-8f9e-28c3d4528f90.jpg">]]></description>
+            <link>http://mosaicoesportivo.com.br/32166865-d52c-41c0-ac9a-60f67ea5d386/index.html</link>
+            <guid isPermaLink="false">32166865-d52c-41c0-ac9a-60f67ea5d386</guid>
+            <pubDate>Thu, 01 Sep 2016 13:53:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>http://mosaicoesportivo.com.br/b48d2d74-1759-43ba-94e8-5ba42625cadb/index.html</link>
             <guid isPermaLink="false">b48d2d74-1759-43ba-94e8-5ba42625cadb</guid>
             <pubDate>Wed, 10 Aug 2016 01:53:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/aefb94a1-0e02-4601-ae94-d2454d30e986.jpg">]]></description>
-            <link>http://mosaicoesportivo.com.br/a-cultura-dos-pins-nas-olimpiadas-encontrei-timothy-jamenso/index.html</link>
-            <guid isPermaLink="false">0bf7cf49-764d-482b-b4af-2d78a6ddf95b</guid>
-            <pubDate>Wed, 10 Aug 2016 00:51:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
